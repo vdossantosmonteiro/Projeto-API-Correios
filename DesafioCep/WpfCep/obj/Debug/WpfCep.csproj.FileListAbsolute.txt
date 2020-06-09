@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\obj\Debug\WpfCep.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\obj\Debug\WpfCep.Properties.Resources.resources
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\obj\Debug\WpfCep.csproj.GenerateResource.cache
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\obj\Debug\WpfCep.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\bin\Debug\WpfCep.dll
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\bin\Debug\WpfCep.pdb
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\bin\Debug\Dapper.dll
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\bin\Debug\Dapper.xml
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\obj\Debug\WpfCep.csproj.CopyComplete
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\obj\Debug\WpfCep.dll
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\obj\Debug\WpfCep.pdb
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\bin\Debug\Correios.dll
+C:\Users\User\Documents\Desafio\DesafioCep\DesafioCep\WpfCep\bin\Debug\Correios.pdb

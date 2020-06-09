@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfAppConsultaCep.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppConsultaCep"
+        mc:Ignorable="d"
+        Title="BuscaCEP" Height="450" Width="500">
+    <Grid Margin="0,-2,0,2">
+        <GroupBox Header="Endereço" HorizontalAlignment="Left" Height="292" Margin="12,105,0,0" VerticalAlignment="Top" Width="460" FontWeight="Bold" BorderBrush="#FF7C7C7C"/>
+        <Label Content="Cep:" HorizontalAlignment="Left" Margin="52,43,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="11"/>
+        <TextBox x:Name="txtCep" HorizontalAlignment="Left" Height="17" Margin="55,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
+        <Button x:Name="btnCarregar" Content="Carregar" HorizontalAlignment="Left" Margin="217,66,0,0" VerticalAlignment="Top" Width="56" Height="18" FontSize="9" Click="Button_Click" FontWeight="Bold"/>
+        <Label Content="Logradouro:" HorizontalAlignment="Left" Margin="56,147,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="11"/>
+        <TextBox x:Name="txtLogradouro" HorizontalAlignment="Left" Height="17" Margin="55,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
+        <Label Content="Complemento:" HorizontalAlignment="Left" Margin="248,147,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="11"/>
+        <TextBox x:Name="txtComplemento" HorizontalAlignment="Left" Height="17" Margin="248,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
+        <Label Content="Bairro:" HorizontalAlignment="Left" Margin="56,221,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="11"/>
+        <TextBox x:Name="txtBairro" HorizontalAlignment="Left" Height="17" Margin="55,245,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
+        <Label Content="Localidade:" HorizontalAlignment="Left" Margin="248,221,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="11"/>
+        <TextBox x:Name="txtLocalidade" HorizontalAlignment="Left" Height="17" Margin="248,245,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
+        <Label Content="UF:" HorizontalAlignment="Left" Margin="56,291,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="11"/>
+        <TextBox x:Name="txtUf" HorizontalAlignment="Left" Height="17" Margin="56,314,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="28"/>
+        <Button x:Name="btnGravar" Content="Gravar" HorizontalAlignment="Left" Margin="153,347,0,0" VerticalAlignment="Top" Width="67" Height="17" FontSize="10" FontWeight="Bold" Click="BtnGravar_Click"/>
+        <Button x:Name="btnSair" Content="Sair" HorizontalAlignment="Left" Margin="239,347,0,0" VerticalAlignment="Top" Width="67" Height="17" FontSize="10" FontWeight="Bold" Click="BtnSair_Click"/>
+    </Grid>
+</Window>
